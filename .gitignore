@@ -21,3 +21,20 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/target/
+
+.DS_Store
+
+.classpath
+
+.project
+
+*.prefs
+
+zookepper-single-kafka-single/
+
+zookeeper-single-kafka-single/kafka1/data/
+
+zookeeper-single-kafka-single/zoo1/data/
+
+zookeeper-single-kafka-single/zoo1/datalog/version-2/
